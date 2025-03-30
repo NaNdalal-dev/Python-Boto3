@@ -1,0 +1,4 @@
+✅ Must start with a letter (a-z, A-Z) or underscore (_)
+✅ Can contain letters, digits (0-9), and underscores
+✅ Case-sensitive (name and Name are different)
+✅ Cannot use reserved keywords (like if, while, class, etc.)
