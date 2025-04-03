@@ -1,0 +1,10 @@
+Operator Type                       Symbol / Keyword
+
+Assignment Operator                 = 
+Arithmetic Operators                +, -, *, /, %, **, //
+Comparison Operators                ==, !=, >, <, >=, <=
+Logical Operators	                and, or, not
+Bitwise Operators                   &, |, ^, ~, >>, <<
+Short Hand Assignment Operators     +=, -=, *=, /=, %=, **=, //=
+Identity Operators                  is, is not
+Membership Operators                in, not in
